@@ -1,7 +1,7 @@
 # freetext_app
 
-1. Apps added value
-   This apps help you analyse files free text columns dicovering more frequent word sequences and link between words
+1. Apps added value  
+   This apps help you analyse files free text columns dicovering more frequent word sequences and link between words.  
    I design it to allow fast investigation on freetext data
 
 2. Features available
